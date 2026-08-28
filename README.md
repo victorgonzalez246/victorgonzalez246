@@ -4,13 +4,14 @@ Desarrollador web en formación enfocado en la integración de Inteligencia Arti
 
 ## 🚀 Proyectos Destacados
 
-* **[Nombre del Proyecto A](link-a tu-repo-a)**: Aplicación desarrollada con React e IA que resuelve [explicación breve de lo que hace].
-* **[Nombre del Proyecto B](link-a tu-repo-b)**: [Explicación breve de la herramienta o chatbot que construirás hoy].
+## 🚀 Proyectos Destacados
 
+* **[Joyería con IA](https://github.com/victorgonzalez246/JOYERIA)**: Catálogo e interfaz interactiva para tienda de joyería desarrollada con React e IA.
+* **[SISTEMA-REST](https://github.com/victorgonzalez246/SISTEMA-REST)**: Sistema de gestión y toma de pedidos para restaurantes asistido por IA.
 ## 🛠️ Tecnologías y Herramientas
 
-* **Frontend:** HTML5, CSS3, JavaScript, React
-* **IA & Herramientas:** Prompts de IA, APIs de IA, Git, GitHub
+* Frontend:** HTML5, CSS3, JavaScript, React
+* IA & Herramientas:** Prompts de IA, APIs de IA, Git, GitHub
 
 ## 📬 Contacto
 
