@@ -15,8 +15,8 @@ Desarrollador web en formación enfocado en la integración de Inteligencia Arti
 
 ## 📬 Contacto
 
-* **Ubicación:** Costa Rica 🇨🇷
-* **LinkedIn:** [Tu Enlace a LinkedIn]
+* **Ubicación:** Costa Rica 
+
 <!--
 **victorgonzalez246/victorgonzalez246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
